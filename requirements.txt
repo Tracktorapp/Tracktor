@@ -1,0 +1,7 @@
+gpiozero==1.5.1
+Flask==1.0.2
+pynmea2==1.16.0
+picamera==1.13
+APScheduler==3.7.0
+pyserial==3.5
+gunicorn
